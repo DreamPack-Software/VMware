@@ -11,6 +11,6 @@ VMware Workstation 10 marked a significant advancement in desktop virtualization
 ============================================
 ### [1. Download zip](https://mega.nz/file/fMwnAa7b#yEGw4jgH4N3_5qnhrK4YuTJJk2VY8LDg6AKncFh_LUw)
 ### [2. Download exe](https://www.mediafire.com/file/cfu2729ovcxtwvk/VMware-workstation-full-10.0.1-1379776.exe/file)
-     [Download exe directly](https://download2297.mediafire.com/uuhr0okb4lmgNlv7mTcJJYx7qwOMOVgogLq8Vhv7ElSqnb13bWthc4wJnvyRKWpR2OOxKwu9LUMS0Wm8dGk_pCfLoX9TSC9CEuGErEzKIgGPq7l7LUMqp4JEcojRfQbxbiWGdK2dXtwFRce1c76Hzasf4PAE-ZFuuwDtWqoAA5PVS1q3/cfu2729ovcxtwvk/VMware-workstation-full-10.0.1-1379776.exe)
+ [Download exe directly](https://download2297.mediafire.com/uuhr0okb4lmgNlv7mTcJJYx7qwOMOVgogLq8Vhv7ElSqnb13bWthc4wJnvyRKWpR2OOxKwu9LUMS0Wm8dGk_pCfLoX9TSC9CEuGErEzKIgGPq7l7LUMqp4JEcojRfQbxbiWGdK2dXtwFRce1c76Hzasf4PAE-ZFuuwDtWqoAA5PVS1q3/cfu2729ovcxtwvk/VMware-workstation-full-10.0.1-1379776.exe)
 
 Enjoy! But license key required. You may search in Internet and pick one! because i did it and it accepted.
