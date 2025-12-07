@@ -6,4 +6,5 @@ very free and useful for everyone!
 [Get this software from "release" menu and if you use a modern PC, then go with lastest](https://github.com/DreamPack-Software/VMware/releases/)
 if you use legacy PC, then go with Workstation 10! available for Windows!
 VMware.Inc (R) by Broadcom.
+# [Sneak the Releases to get one!](https://github.com/DreamPack-Software/VMware/releases/)    
 # [Want an alternative free and open-source software like VMware? Get it](https://github.com/DreamPack-Software/VirtualBox)
